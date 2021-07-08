@@ -1,6 +1,9 @@
 {
   "menuItems": [
     {
+      "name": "Home"
+    },
+    {
       "name": "Quick Start",
       "menu": [
         ""
